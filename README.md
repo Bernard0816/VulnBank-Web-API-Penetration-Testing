@@ -3,6 +3,7 @@ Web &amp; API penetration testing of a vulnerable banking application using OWAS
 # 🌐 VulnBank Web & API Penetration Testing
 
 ## 📘 Penetration Test Report
+
 👉 [📄 View the full penetration testing report](VulnBank_Web_API_Penetration_Test_Report.pdf)
 
 ## 🔍 Overview
